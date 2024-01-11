@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: busybox-curl-pod
+  namespace: nspace2
+spec:
+  containers:
+    - name: busybox-curl-container
+      image: yauritux/busybox-curl:latest
+      command: ["sleep", "infinity"]
+
+      
+      
+#  terraform apply --var-file values.tfvars --auto-approve

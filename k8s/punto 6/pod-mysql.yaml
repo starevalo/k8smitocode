@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: bdd-api-persona-pod
+  namespace: nspace1
+  labels:
+    app: bdd-pod
+  # pod de base de datos
+spec:
+  containers:
+    - name: mariadb-container
+      image: sarevalo/mibasededatos:1.0
+      envFrom:
+        - configMapRef:
+            name: my-configmap-bdd
+      ports:
+        - containerPort: 3306  

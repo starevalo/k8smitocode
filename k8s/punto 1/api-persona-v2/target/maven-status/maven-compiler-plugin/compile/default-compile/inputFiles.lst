@@ -1,0 +1,7 @@
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/dto/RespuestaApi.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/controller/api/ApiPersonaController.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/service/PersonaService.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/dao/PersonaDAO.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/model/Persona.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/App.java
+/Users/User/Documents/curso-cloud/ambiente-unico-aws-terraform/proyecto-final-k8s/k8s/punto-01/fuentes/api-persona-v2/src/main/java/com/example/wjma90/service/impl/PersonaServiceImpl.java

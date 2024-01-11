@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-configmap-app
+  namespace: nspace2
+data:
+  host: mysql
+  port: "3306"
+  password: ""

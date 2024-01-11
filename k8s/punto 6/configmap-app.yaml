@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-configmap-app
+  namespace: nspace1
+data:
+  host: 172.21.4.7
+  port: "3306"
