@@ -11,7 +11,23 @@
 			"name": "New Request",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "http://34.73.123.9:80/api/personas/3",
+					"protocol": "http",
+					"host": [
+						"34",
+						"73",
+						"123",
+						"9"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"personas",
+						"3"
+					]
+				}
 			},
 			"response": []
 		}
